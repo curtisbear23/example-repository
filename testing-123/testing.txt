@@ -1,1 +1,2 @@
 This is a test.
+GitLab is open source while GitHub is closed-source.
